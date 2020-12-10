@@ -1,0 +1,1 @@
+console.log("Paringi kelancaran gusti, kulo niki bodo")
